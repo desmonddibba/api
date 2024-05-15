@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Holt\\OneDrive - Handelsakademin\\Skrivbordet\\api\\api.csproj": {}
+    "C:\\Users\\Holt\\repos\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Holt\\OneDrive - Handelsakademin\\Skrivbordet\\api\\api.csproj": {
+    "C:\\Users\\Holt\\repos\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Holt\\OneDrive - Handelsakademin\\Skrivbordet\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\Holt\\repos\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\Holt\\OneDrive - Handelsakademin\\Skrivbordet\\api\\api.csproj",
+        "projectPath": "C:\\Users\\Holt\\repos\\api\\api.csproj",
         "packagesPath": "C:\\Users\\Holt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Holt\\OneDrive - Handelsakademin\\Skrivbordet\\api\\obj\\",
+        "outputPath": "C:\\Users\\Holt\\repos\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Holt\\AppData\\Roaming\\NuGet\\NuGet.Config",
